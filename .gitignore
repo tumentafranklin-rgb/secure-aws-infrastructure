@@ -37,3 +37,6 @@ Thumbs.db
 *.swp
 *.swo
 *.swx
+
+# Local Terraform development backups
+main.tf.*
