@@ -70,3 +70,8 @@ The environment uses a two-tier VPC architecture.
               v             v
         Secure Data     Encryption
           Bucket
+```
+
+### Detailed Architecture Diagram
+
+See the full Mermaid architecture diagram: [Architecture Diagram](diagrams/architecture.md)
